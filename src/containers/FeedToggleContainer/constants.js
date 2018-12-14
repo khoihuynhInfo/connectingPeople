@@ -1,0 +1,7 @@
+export const YOUR_FEED = 'YOUR_FEED';
+export const GLOBAL_FEED = 'GLOBAL_FEED';
+
+export const MY_ARTICLES = 'MY_ARTICLES';
+export const FAVORITED_ARTICLES = 'FAVORITED_ARTICLES';
+
+export const ARTICLE_TAGS = 'ARTICLE_TAGS';
