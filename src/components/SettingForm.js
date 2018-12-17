@@ -109,7 +109,7 @@ class SettingForm extends Component {
                             return (
                                 <li
                                     key={index}
-                                    className="ng-binding ng-scope">
+                                 >
                                     email {err}
                                 </li>
                             );
@@ -121,7 +121,7 @@ class SettingForm extends Component {
                             return (
                                 <li
                                     key={index}
-                                    className="ng-binding ng-scope">
+                                >
                                     username {err}
                                 </li>
                             );
